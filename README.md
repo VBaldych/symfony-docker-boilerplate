@@ -26,8 +26,13 @@ make start
 
 ### Application commands
 `make init` - initialise Docker build
+
 `make start` - run Docker build
+
 `make down` - stop Docker build
+
 `make php-cli`- run PHP Bash
+
 `make composer install` - install Composer dependencies
+
 `make composer [your_command]` - execute Composer command
