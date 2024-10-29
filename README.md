@@ -24,6 +24,8 @@ To start a local container run
 make start
 ```
 
+Then follow URL `localhost:80` - thi is local URL of your application
+
 ### Application commands
 `make init` - initialise Docker build
 
